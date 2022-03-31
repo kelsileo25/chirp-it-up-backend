@@ -1,0 +1,1 @@
+This is a starting point for your full-stack project. I've already added the server from the express API walkthrough. Included in the client is a simple React app that you will have to redo so it will fetch the chirps from the express api (your API should work completely in postman before you work on the React app)
